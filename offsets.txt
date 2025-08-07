@@ -1,1 +1,4 @@
+LibUe4=0xE0C3560
+GWorld=0xA74E234;
+Gname=0xA317784;
 ViewMatrix=0xA72D470
