@@ -113,3 +113,5 @@ BreathMax=0x10c
 NearDeatchComponent=0x1428
 GameState=0x13c
 bAutoDestroyWhenFinished=0x138
+STPlayerController=0x3ac4
+CameraCache=0x3b0
